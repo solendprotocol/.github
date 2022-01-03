@@ -16,4 +16,4 @@ To integrate with Solend, check out some of the examples calls to the protocol i
 
 ## Contact us
 
-Get in touch. Check out our #dev-support channel on [Discord](https://discord.com/invite/aGXvPNGXDT) or learn more about us on [Twitter](https://twitter.com/solendprotocol)
+Get in touch. Check out our #dev-support channel on [Discord](https://discord.com/invite/aGXvPNGXDT) or learn more about us on [Twitter](https://twitter.com/solendprotocol).

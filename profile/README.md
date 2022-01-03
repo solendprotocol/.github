@@ -12,7 +12,7 @@ With Solend, you can:
 
 The Solend protocol is open source and you can contribute [here](https://github.com/solendprotocol/solana-program-library/tree/mainnet/token-lending).
 
-To integrate with Solend, check out some of the examples calls to the protocol in our [internal liquidator](https://github.com/solendprotocol/internal-liquidator).
+To integrate with Solend, check out some of the examples calls to the protocol in our [internal liquidator](https://github.com/solendprotocol/liquidator).
 
 ## Contact us
 

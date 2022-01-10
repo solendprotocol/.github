@@ -8,12 +8,15 @@ With Solend, you can:
 - Leverage long
 - Short
 
-## Contributing
+## Contributing/Building
 
-The Solend protocol is open source and you can contribute [here](https://github.com/solendprotocol/solana-program-library/tree/mainnet/token-lending).
+The Solend protocol is open source with a focus on developer friendliness and integrations.
 
-To integrate with Solend, check out some of the examples calls to the protocol in our [internal liquidator](https://github.com/solendprotocol/liquidator).
+Solend is made for developers to build on top of. Check out our developer portal to get involved.
+
+[
+<img width="200" alt="Screen Shot 2022-01-09 at 5 54 30 PM" src="https://user-images.githubusercontent.com/89805726/148710356-a6cdb798-934a-459d-b795-d4a1099168db.png">](https://dev.solend.fi/).
 
 ## Contact us
 
-Get in touch. Check out our #dev-support channel on [Discord](https://discord.com/invite/aGXvPNGXDT) or learn more about us on [Twitter](https://twitter.com/solendprotocol).
+Promoting and supporting our partners and integrations is important to us. Get in touch. Check out our #dev-support channel on [Discord](https://discord.com/invite/aGXvPNGXDT) or learn more about us on [Twitter](https://twitter.com/solendprotocol).
